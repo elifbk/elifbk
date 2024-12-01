@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Elif</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **my skills.**
+I am a passionate Frontend Developer with a strong interest in creating user-friendly and visually appealing interfaces. I have been working in software development for some time and continuously strive to improve my skills.
 
-- 🌱 I’m currently learning **more about Frontend React technologies .**
+Recently, I have been focusing on React Native to enhance my knowledge in mobile application development. I am excited to learn more about this area and create impactful projects.
 
 - 📫 How to reach me **elifkulekci1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/elif-bet%c3%bcl-k%c3%bclek%c3%a7i-212a55308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elif-bet%c3%bcl-k%c3%bclek%c3%a7i-212a55308/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
